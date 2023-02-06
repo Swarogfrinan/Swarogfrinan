@@ -39,6 +39,13 @@ src="https://github.com/Swarogfrinan/Swarogfrinan/blob/Swarogfrinan-patch-1/play
 
 
 ## iOS Apps 
+<a href="https://github.com/drewkuznetsov/AudioPlayer">
+<img align="left" alt="audioPlayer" height="40px" src="https://github.com/drewkuznetsov/AudioPlayer/blob/MVC/AudioPlayer/Resources/Assets.xcassets/AppIcon.appiconset/40.png" />
+</a>
+  <a href="https://github.com/kirillvikhlyaev/MovieDatabase">
+<img align="left" alt="movieDataBase" height="40px" src="https://github.com/kirillvikhlyaev/MovieDatabase/blob/dev/MovieDatabase/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/40.png" />
+</a>
+    
 <a href="https://github.com/Swarogfrinan/submarineGame">
 <img align="left" alt="Submarine" height="40px" src="https://github.com/Swarogfrinan/Swarogfrinan/blob/Swarogfrinan-patch-1/SubmarineIcon.png" />
 </a>
