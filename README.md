@@ -17,7 +17,7 @@
     
 <a href="https://netology.ru/programs/ios-developer" target="blank"><img align="left" src="https://github.com/Swarogfrinan/Swarogfrinan/blob/main/netology40image.png" alt="Netology" height="40" width="40" /></a> 
     
-<a href="https://www.udemy.com/course/ios-13-app-development-bootcamp" target="blank"><img align="left" src="https://github.com/Swarogfrinan/Swarogfrinan/blob/main/UdemyIcon40.png" alt="Udemy" height="40" width="40" /></a>
+<a href="https://www.udemy.com/course/ios-13-app-development-bootcamp" target="blank"><img align="left" src="https://github.com/Swarogfrinan/Swarogfrinan/blob/main/udemy-color.svg" alt="Udemy" height="40" width="40" /></a>
     
 &nbsp;
 &nbsp; 
