@@ -6,7 +6,7 @@
   
 <a href="https://t.me/SwarogSwarog" target="blank"><img align="left" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
   
-<a href="https://vk.com/frinan" target="blank"><img align="left" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/ilya-vasilev-48000b272" target="blank"><img align="left" src="https://github.com/Swarogfrinan/Swarogfrinan/blob/main/linkedin-color.svg" alt="daniilshat" height="40" width="40" /></a> 
   &nbsp;
 &nbsp;
   
@@ -22,7 +22,7 @@
 &nbsp;
 &nbsp; 
 
-## Пощупанные фреймворки 
+## Фреймворки 
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
 <img align="left" alt="SpriteKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/spritekit.png?raw=true" />
