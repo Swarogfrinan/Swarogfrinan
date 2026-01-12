@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ilya 👋</a> 
-<h3 align="center">Ios Junior Developer from Belgorod 🇷🇺</h3>
+<h3 align="center">Ios Developer🇷🇺</h3>
 
 ### Connect with me:
 <p align="left">
